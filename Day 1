@@ -1,0 +1,16 @@
+1.a=int(input("Enter the number:"))
+if a>0:
+      print("Positive")
+elif a<0:
+      print("Negative")
+else:
+      print("zero")
+
+
+2. Even or odd
+a=int(input("Enter the number:"))
+if a%2==0:
+    print("Even number")
+else:
+    print("Odd number")
+   
